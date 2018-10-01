@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "238274805950",
+    "firebase_url": "https://chatapp-5034e.firebaseio.com",
+    "project_id": "chatapp-5034e",
+    "storage_bucket": "chatapp-5034e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238274805950:android:c7f9e6fb4bba0049",
+        "android_client_info": {
+          "package_name": "techknight.Vaibhav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238274805950-cid4rq83jc5uqcn9bkibqb8b803oa25q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techknight.Vaibhav",
+            "certificate_hash": "8b3ee8fc0670a14d0ed348415620024248c2699a"
+          }
+        },
+        {
+          "client_id": "238274805950-73bp7c1is3r3sb3j2glvrv9v4hhj347b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techknight.Vaibhav",
+            "certificate_hash": "4063417f7b908b79a7fa73166e3f3e5c564de3e0"
+          }
+        },
+        {
+          "client_id": "238274805950-4r23ob075auvsfta4rhmc3qv2s5ckkoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnOK6dYc6eP5Tg5_G47_64bMCZJMLh8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238274805950-4r23ob075auvsfta4rhmc3qv2s5ckkoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
