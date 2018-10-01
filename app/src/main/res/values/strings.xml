@@ -4,7 +4,7 @@
     <string name="sign_out">Sign Out</string>
     <string name="select_picture_title">Get Photo From</string>
     <string name="sendPhotoGallery">Photo Gallery</string>
-    <string name="api_key_google_places">AIzaSyCwyqeE3uoqjsgVs_AeUH-9dTywM84CEiw</string>
+    <string name="api_key_google_places">xxxxxxxxxxxxxxxxxxxxxxxx</string>
     <string name="sendLocation">Send Location</string>
     <string name="locationTo">Localização Enviada</string>
 </resources>
