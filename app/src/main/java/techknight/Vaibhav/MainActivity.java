@@ -73,8 +73,8 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
 
     private static final int IMAGE_GALLERY_REQUEST = 1;
     private static final int IMAGE_CAMERA_REQUEST = 2;
-    private static final String USERNAME = "palvaibhav89@gmail.com";
-    private static final String PASSWORD = "Hello14@";
+    private static final String USERNAME = "palvaixxxxxxxxmail.com";
+    private static final String PASSWORD = "xxxxxxxx";
 
     static final String TAG = MainActivity.class.getSimpleName();
     static final String CHAT_REFERENCE = "chatmodel";
