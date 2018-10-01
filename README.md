@@ -1,1 +1,1 @@
-# chat_apllication_code
+# chat_application_code
